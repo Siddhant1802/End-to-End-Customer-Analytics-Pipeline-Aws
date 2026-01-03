@@ -38,7 +38,7 @@
 - **Analytics Layer:** Amazon Athena executes SQL queries directly on S3  
 - **Security & Governance:** IAM Roles and Athena Workgroups  
 - **Visualization:** Power BI connects to Athena using ODBC  
-
+![image_alt](https://github.com/Siddhant1802/End-to-End-Customer-Analytics-Pipeline-Aws/blob/3e23d3e1772b8571000f3fa19281ef9c016b8275/Architecture/end_to_end_customer_analytics_architecture.png)
 ---
 
 ## 🧩 Technology Stack & Role in This Project
