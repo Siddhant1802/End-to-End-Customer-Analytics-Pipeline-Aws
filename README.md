@@ -202,16 +202,9 @@
 
 ---
 
-
 ## 🔮 Future Enhancements
 
 - Integrate AWS SageMaker for churn prediction
 - Automate ingestion using AWS Lambda
 - Add data partitioning for performance optimization
 - CI/CD pipelines for analytics workflows
-
----
-
-## 🏁 Conclusion
-
-This project demonstrates how a modern, serverless analytics platform can be built on AWS to deliver actionable business insights using scalable cloud services and enterprise-grade visualization tools like Power BI.
