@@ -202,21 +202,6 @@
 
 ---
 
-## 📁 Repository Structure
-
-├── README.md  
-├── architecture/  
-│   └── end_to_end_customer_analytics_architecture.png  
-├── analytics_sql_layer/  
-│   └── customer_churn_analysis.sql  
-├── customer_data_assets/  
-│   └── telco_customer_churn.csv  
-├── powerbi_analytics_layer/  
-│   ├── customer_churn_retention_dashboard.pbix  
-│   └── powerbi_visual_exports/  
-├── pipeline_execution_evidence/  
-
----
 
 ## 🔮 Future Enhancements
 
